@@ -1,3 +1,28 @@
 {
-  "Quaterly" : []
+  "Quaterly":
+  [
+    {
+      "subject": "Maths",
+      "mark": "48",
+      "status": "Passed"
+    },
+    {
+      "subject": "Computer",
+      "mark": "20",
+      "status": "Fail"
+    }
+  ],
+  "Half Yearly":
+  [
+    {
+      "subject": "Maths",
+      "mark": "48",
+      "status": "Passed"
+    },
+    {
+      "subject": "Computer",
+      "mark": "20",
+      "status": "Fail"
+    }
+  ]
 }
