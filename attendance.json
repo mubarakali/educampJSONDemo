@@ -1,5 +1,6 @@
 {
 "summary": [
+	{"month" : "Overall", "working" : "360", "present" : "130", "percentage" : "50"},
 	{"month" : "June", "working" : "30", "present" : "15", "percentage" : "50"},
 	{"month" : "July", "working" : "30", "present" : "15", "percentage" : "50"},
 	{"month" : "August", "working" : "30", "present" : "15", "percentage" : "50"},
