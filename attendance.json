@@ -1,4 +1,16 @@
 {
-"summary": [],
+"summary": [
+	{"month" : "June", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "July", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "August", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "September", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "October", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "November", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "December", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "January", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "February", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "March", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "April", "working" : "30", "present" : "15", "percentage" : "50"},
+],
 "detail" : []
 }
