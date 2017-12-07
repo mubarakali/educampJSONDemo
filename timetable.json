@@ -1,1 +1,32 @@
-
+{
+  "Monday":
+  [
+    {"subject":"Maths", "start_time":"9:00AM", "end_time":"10:00AM"},
+    {"subject":"English", "start_time":"10:00AM", "end_time":"11:00AM"},
+    {"subject":"Science", "start_time":"11:00AM", "end_time":"12:00PM"}
+  ],
+  "Tuesday":
+  [
+    {"subject":"Maths", "start_time":"9:00AM", "end_time":"10:00AM"},
+    {"subject":"English", "start_time":"10:00AM", "end_time":"11:00AM"},
+    {"subject":"Science", "start_time":"11:00AM", "end_time":"12:00PM"}
+  ],
+  "Wednesday":
+  [
+    {"subject":"Maths", "start_time":"9:00AM", "end_time":"10:00AM"},
+    {"subject":"English", "start_time":"10:00AM", "end_time":"11:00AM"},
+    {"subject":"Science", "start_time":"11:00AM", "end_time":"12:00PM"}
+  ],
+  "Thursday":
+  [
+    {"subject":"Maths", "start_time":"9:00AM", "end_time":"10:00AM"},
+    {"subject":"English", "start_time":"10:00AM", "end_time":"11:00AM"},
+    {"subject":"Science", "start_time":"11:00AM", "end_time":"12:00PM"}
+  ],
+  "Friday":
+  [
+    {"subject":"Maths", "start_time":"9:00AM", "end_time":"10:00AM"},
+    {"subject":"English", "start_time":"10:00AM", "end_time":"11:00AM"},
+    {"subject":"Science", "start_time":"11:00AM", "end_time":"12:00PM"}
+  ]
+}
