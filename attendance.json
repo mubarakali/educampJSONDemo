@@ -10,7 +10,7 @@
 	{"month" : "January", "working" : "30", "present" : "15", "percentage" : "50"},
 	{"month" : "February", "working" : "30", "present" : "15", "percentage" : "50"},
 	{"month" : "March", "working" : "30", "present" : "15", "percentage" : "50"},
-	{"month" : "April", "working" : "30", "present" : "15", "percentage" : "50"},
+	{"month" : "April", "working" : "30", "present" : "15", "percentage" : "50"}
 ],
 "detail" : []
 }
