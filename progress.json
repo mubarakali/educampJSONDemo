@@ -10,6 +10,11 @@
       "subject": "Computer",
       "mark": "20",
       "status": "Fail"
+    },
+    {
+     "subject": "Science",
+      "mark": "NIL",
+      "status": "Absent"
     }
   ],
   "Half Yearly":
