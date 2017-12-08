@@ -1,6 +1,6 @@
 {
   "Breaks": 
-  ["10::00 AM - 10::10 AM", "12::50 PM - 01::30 PM", "03::30 PM - 03::40 PM"],
+  ["10:00 AM - 10:10 AM", "12:50 PM - 01:30 PM", "03:30 PM - 03:40 PM"],
   "Monday":
   [
     {"subject":"Maths", "start_time":"9:00AM", "end_time":"10:00AM"},
