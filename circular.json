@@ -1,1 +1,15 @@
-
+[
+  {
+   "subject" : "Parent teacher Meeting",
+    "date" : "09/12/2017",
+    "ref" : "1",
+    "detail" : "Dear Parent, \n Kindly attend the parent teacher meeting of class VII A, scheduled on 12/12/2017 from 2 PM to 4 PM."
+  },
+  
+  {
+   "subject" : "Sports Day",
+    "date" : "10/12/2017",
+    "ref" : "1",
+    "detail" : "Dear Parent, \n This is to inform that the inauguration of the sports day is on 15/112/2017."
+  }
+]
