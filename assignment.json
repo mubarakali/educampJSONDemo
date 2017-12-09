@@ -1,1 +1,7 @@
-
+[
+  { "subject": "Maths", "details" : "From page 2 to 4", "date":"09/12/2017", "due_date":"12/12/2017"},
+  { "subject": "Science", "details" : "From page 2 to 4", "date":"09/12/2017", "due_date":"12/12/2017"},
+  { "subject": "Social", "details" : "From page 2 to 4", "date":"09/12/2017", "due_date":"12/12/2017"},
+  { "subject": "English", "details" : "From page 2 to 4", "date":"09/12/2017", "due_date":"12/12/2017"},
+  { "subject": "Malayalam", "details" : "From page 2 to 4", "date":"09/12/2017", "due_date":"12/12/2017"},
+]
