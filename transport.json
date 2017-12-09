@@ -1,1 +1,9 @@
-
+{
+ "bus_number" : "Route No. 9",
+  "bus_route" : "FIS - VELLUVAMBRAM",
+  "station" : "Kottappuram",
+  "station_point" : "15",
+  "payment_type" : "Installment",
+  "total_fee" : "6000",
+  "installment_fee" : "1500"
+}
